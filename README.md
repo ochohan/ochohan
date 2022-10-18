@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ochohan
-- 👀 I’m interested in blockchain, distributed computing, web 3.0 and coding.
-- 🌱 I’m currently learning distributed computing and blockchain development
+- 👀 I’m interested in blockchain, web dev, web 3.0 and coding.
+- 🌱 I’m currently learning web dev and blockchain development
 - 💞️ I’m looking to collaborate on blockchain and web 3.0 projects.
 - 📫 How to reach me at osamachohan@outlook.com
 
